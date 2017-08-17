@@ -39,7 +39,7 @@ public class ProjectController {
 	public String Addproject(Map<String, Object> map,Model model) {
 		
 		
-		System.out.println("inside controller Addproject by git");
+		System.out.println("inside controller Addproject by git by me");
 		map.put("project", new Project());
 		
 		List<Project> projectList = proservice.getProjects();
