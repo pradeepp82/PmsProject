@@ -41,10 +41,7 @@ public class ProjectController {
 		
 		System.out.println("inside controller Addproject ");
  
-		System.out.println("inside controller Addproject ");
- 
-		
-		System.out.println("ramlal gagan");
+		 
  
 	
 		map.put("project", new Project());
