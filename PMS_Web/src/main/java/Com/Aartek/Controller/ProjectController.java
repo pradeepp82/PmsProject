@@ -40,6 +40,7 @@ public class ProjectController {
 		
 		
 		System.out.println("inside controller Addproject by git  pp");
+		System.out.println("pp");
 		map.put("project", new Project());
 		
 		List<Project> projectList = proservice.getProjects();
