@@ -21,7 +21,7 @@ public class LoginController {
 	@Autowired
 	LoginService LoginService;
 	
-	
+z
 	
 
 	@RequestMapping("/login")
